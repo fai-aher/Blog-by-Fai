@@ -107,7 +107,7 @@ const App = () => {
               onClick={handlePasswordSubmit}
               className="login-button"
             >
-              Enter Our World 💕
+              Entra a mi Corazón💝
             </button>
           </div>
         </div>
@@ -169,7 +169,7 @@ const App = () => {
 
               <div className="page-indicator">
                 <span className="page-counter">
-                  Page {currentPage + 1} of {albumPages.length}
+                  Página {currentPage + 1} de {albumPages.length}
                 </span>
                 <div className="page-dots">
                   {albumPages.map((_, index) => (
